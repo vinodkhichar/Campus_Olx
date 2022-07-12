@@ -1,0 +1,44 @@
+export const Aditem=[
+    {
+        id:1,
+        amount:10000,
+        name:'Redmi Note 7s',
+        date:'1-1-2001',
+    },
+    {
+        id:2,
+        amount:12000,
+        name:'Xiaomi',
+        date:'2-2-2002',
+    },
+    {
+        id:3,
+        amount:13000,
+        name:'Xiaomi',
+        date:'3-3-2003',
+    },
+    {
+        id:4,
+        amount:100000,
+        name:'Xiaomi',
+        date:'4-4-2004',
+    },
+    {
+        id:5,
+        amount:10001,
+        name:'Xiaomi',
+        date:'5-5-2005',
+    },
+    {
+        id:6,
+        amount:10002,
+        name:'Xiaomi',
+        date:'6-6-2006',
+    },
+    {
+        id:7,
+        amount:10003,
+        name:'Xiaomi',
+        date:'7-7-2007',
+    }
+]

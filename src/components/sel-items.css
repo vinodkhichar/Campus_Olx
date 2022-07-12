@@ -1,0 +1,29 @@
+
+
+.container-si{
+    display: inline-block;
+    align-items: center;
+    justify-content:center;
+}
+
+.sellitems{
+    width: 240px;
+    height:240px;
+    margin:10px;
+    transition:all 0.5s;
+    text-align: center;
+    background-color: #fff;
+    border: 2px solid #616263;
+    color: #000;
+}
+
+.sellitems:hover{
+    transform: scale(1.1);
+}
+
+.sellitems img {
+    height: 200px;
+    width: 200px;
+}
+
+

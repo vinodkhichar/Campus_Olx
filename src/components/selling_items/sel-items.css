@@ -1,0 +1,23 @@
+
+
+.sellitems{
+    width: 300px;
+    height:300px;
+    margin:10px;
+    transition:all 0.5s;
+    border: 1.5px solid #8887;
+    box-shadow: 2px 2px 2px #888888;
+    color: #0000;
+    text-align: center;
+}
+
+.sellitems:hover{
+    transform: scale(1.1);
+}
+
+.sell-img{
+    height:80% ;
+    width: 80%;
+}
+
+
